@@ -1,0 +1,2 @@
+-> checkout by UPI / cash
+-> after checkout setting the Billing to paid and done so next time user visit a new billing is made
